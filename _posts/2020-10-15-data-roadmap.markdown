@@ -3,6 +3,7 @@ layout: post
 title:  "Data Team Roadmap"
 date:   2020-10-15 10:18:00
 categories: Data Planning Roadmap
+cover: https://images.unsplash.com/photo-1581922819941-6ab31ab79afc
 ---
 
 This is a post about my experience creating a 2021 roadmap for my team at Omio. I say data team in the title but perhaps it's more apt for a data engineering team such as the one I am leading. It's that time of the year again when some of us start building a mental map of what's next. My shower time was consumed by exactly these kind of thoughts for the last few weeks so I decided to put all of it on paper.
