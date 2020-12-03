@@ -15,8 +15,8 @@ I also offer 1<>1 mentoring through [The Mentoring Club](https://www.mentoring-c
 
 Sometimes, I provide consulting to startups in Europe and India on their data engineering setup.
 
-In my day job, I work as [Head of BI and Data Engineering at Omio](https://www.linkedin.com/in/rahul-jain-83055b45/) where I work with some of the best data engineers and analysts in evolving our Data Engineering and Analytics function.
+In my day job, I work as [Head of Business Intelligence and Data Engineering at Omio](https://www.linkedin.com/in/rahul-jain-83055b45/) where I work with some of the best data engineers and analysts in evolving our Data Engineering and Analytics function.
 
-[This is](/assets/resume/rahul-resume.pdf) my professional resume. 
+[This is]({{ site.url }}/assets/resume/rahul-resume.pdf) my professional resume. 
 
 
