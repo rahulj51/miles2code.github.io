@@ -65,7 +65,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 - I get to decide "how" to do my job.
 - My manager DOES NOT micro-manage my work.
 - My suggestions are welcomed and heard by my Manager and team.
-- To the extent where it does not adversely impact our larger commitments to stakeholders, I can largely chose what I want to work on.
+- To the extent where it does not adversely impact our commitments to stakeholders, I can largely chose what I want to work on.
 - I feel safe to take some time off to rejuvenate whenever I feel like.
 
 ### Mastery
