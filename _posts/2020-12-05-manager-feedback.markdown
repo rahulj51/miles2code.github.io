@@ -28,11 +28,11 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 *(multiple choice starting from "Strongly Disagree" to "Strongly Agree")*
 
 - I feel safe to voice my opinions in the team.
-- When I don't agree with my colleagues, I feel safe to express my disagreement to them and the team.
-- When I don't agree with my Manager, I feel safe to express my disagreement to them.
-- There are aspects of work that I don't like but I don't feel comfortable discussing it with anyone.
+- When I don't agree with my colleagues, I feel safe to express my disagreement to them.
+- When I don't agree with my manager, I feel safe to express my disagreement to them.
+- If there are aspects of work that I don't like, I can comfortably discuss them with my team or manager.
 - I feel safe to take risks.
-- I feel safe when despite my best efforts, I can't meet the expectations.
+- I feel safe when despite my best efforts, I can't meet some expectations.
 
 ### Sense of Purpose
 
