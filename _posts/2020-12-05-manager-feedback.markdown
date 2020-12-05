@@ -8,7 +8,9 @@ cover: https://images.unsplash.com/photo-1556484687-30636164638b
 
 I was looking for a set of questions to include in a feedback form that I wanted to send out to my team for a 360 degree feedback. I did a little bit of research but could not find any definitive set of questions that was broad enough to thoroughly cover multiple aspects of management. 
 
-Taking inspiration from Dan Pink's [AMP framework](https://www.danpink.com/books/drive/), Paloma Medina's [BICEPS framework](https://www.palomamedina.com/biceps) and this [excellent blog post](https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/) by Cate Huston, I created a set of 65 feedback questions. Yes, that's a lot of questions but I wanted to be thorough. I designed these as multiple-choice so they are easy to answer and don't require a lot of time. I am using an anonymous Google survey to gather my team's responses.
+Taking inspiration from Dan Pink's [AMP framework](https://www.danpink.com/books/drive/), Paloma Medina's [BICEPS framework](https://www.palomamedina.com/biceps) and this [excellent blog post](https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/) by Cate Huston, I created a set of 65 feedback questions. 
+
+Yes, that's a lot of questions but I wanted to be thorough. I designed these as multiple-choice so they are easy to answer and don't require a lot of time. I also took care to keep the language consistent and to-the-point and avoided confused phrasing as much as possible. An anonymous Google survey is a good format for gathering responses to these.
 
 Here's the list. Feel free to use it in your own teams and let me know how it goes. 
 
