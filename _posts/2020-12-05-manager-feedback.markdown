@@ -151,9 +151,16 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 - On a scale of 1-10, this is how my manager performs during crisis or when things are shaky.
 - My manager adjusted their management style (work-process, communication, empathy, motivation, managing stakeholders etc.) to better support me during Covid situation.
 - My manager improved their management skills in the last year.
-- If my manager left the team suddenly, this is how badly it would impact the team's functioning.
-- If I was leading the team, this is what I would do differently from my manager.
+- If my manager left the team suddenly, this is how badly it would impact the team's functioning[¹](#one).
+- If I was leading the team instead of my manager, this is what I would do differently from them.
 - If I could give one suggestion for how my manager could go from good to great, or from awesome to awesomer, it would be...
 - Fill in the blank - My ideal Manager is someone who...
 - Fill in the blank - I wish this questionnaire had also asked me my thoughts/opinions on...
+
+***
+
+#### Footnotes
+
+1. <a name="one"></a>A good manager would make themselves redundant over time.
+
 
