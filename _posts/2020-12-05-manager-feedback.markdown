@@ -10,7 +10,7 @@ I was looking for a set of questions to include in a feedback form that I wanted
 
 Taking inspiration from Dan Pink's [AMP framework](https://www.danpink.com/books/drive/), Paloma Medina's [BICEPS framework](https://www.palomamedina.com/biceps) and this [excellent blog post](https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/) by Cate Huston, I created a set of 65 feedback questions. Yes, that's a lot of questions but I wanted to be thorough. I designed these as multiple-choice so they are easy to answer and don't require a lot of time. 
 
-Here's the list. Hope this helps.
+Here's the list. Feel free to use it in your own teams. 
 
 ### General
 
