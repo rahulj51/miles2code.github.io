@@ -30,7 +30,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 - I feel safe to voice my opinions in the team.
 - When I don't agree with my colleagues, I feel safe to express my disagreement to them.
 - When I don't agree with my manager, I feel safe to express my disagreement to them.
-- If there are aspects of work that I don't like, I can comfortably discuss them with my team or manager.
+- If there are aspects of work that I don't like, I can comfortably discuss them with my team and manager.
 - I feel safe to take risks.
 - I feel safe when despite my best efforts, I can't meet some expectations.
 
@@ -52,7 +52,6 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 - I feel a sense of purpose in what I am doing.
 - I feel that I am learning and growing as a professional.
 - I feel that I belong here.
-- I feel safe to take some time off to rejuvenate whenever I want.
 
 ### Autonomy
 
