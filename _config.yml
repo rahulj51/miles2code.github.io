@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-seo-tag]
 
 # Details for the RSS feed generator
 url: ""
