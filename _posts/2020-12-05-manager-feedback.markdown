@@ -130,7 +130,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 *(multiple choice starting from "Strongly Disagree" to "Strongly Agree")*
 
 - My manager treats everyone equally and has no favorites.
-- I feel comfortable based on my gender, race or sexual orientation.
+- I feel comfortable based on my religion, race, ethnicity, national origin, disability, sex, sexual orientation, gender expression or gender identity.
 - As a team, we are committed to diversity.
 - As a team, we celebrate diversity and take pride in it.
 - My manager respects me as a human.
