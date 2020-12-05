@@ -3,7 +3,7 @@ layout: post
 title:  "Manager Feedback - 65 questions"
 date:   2020-12-05 15:25:00
 categories: Management Team Feedback Performance
-cover: https://images.unsplash.com/photo-1556484687-30636164638b
+cover: https://source.unsplash.com/LjqARJaJotc/1920x1440
 ---
 
 I was looking for a set of questions to include in a feedback form that I wanted to send out to my team for a 360 degree feedback. I did a little bit of research but could not find any definitive set of questions that was broad enough to thoroughly cover multiple aspects of management. 
