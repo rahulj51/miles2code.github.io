@@ -2,11 +2,16 @@ name: Miles 2 code
 description: Blogging about my experiences with data, engineering and management
 meta_description: "Software Engineering, Data, Engineering-Management"
 
+gems:
+  - jekyll-seo-tag
+
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-plugins: [jekyll-paginate, jekyll-seo-tag]
+plugins: 
+  - jekyll-paginate 
+  - jekyll-seo-tag
 
 # Details for the RSS feed generator
 url: ""
