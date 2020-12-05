@@ -14,13 +14,13 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 
 ### General
 
-- On a scale of 1-10, how was 2020 for you, professionally?
+- On a scale of 1-10, this is how 2020 was for me, professionally.
 
 ### Psychological Safety
 
 
 ```
-🧸 How safe do you feel to take risks, make mistakes or voice opinions
+🧸 How safe do I feel to take risks, make mistakes or voice opinions
 ```
 
 *(multiple choice starting from "Strongly Disagree" to "Strongly Agree")*
@@ -35,7 +35,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 ### Sense of Purpose
 
 ```
-☀️ Do you see the big picture. Do you feel valued.
+☀️ Do I see the big picture. Do I feel valued.
 ```
 
 *(multiple choice starting from "Strongly Disagree" to "Strongly Agree")*
@@ -55,7 +55,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 ### Autonomy
 
 ```
-🕹 Do you have control on various aspects of your work
+🕹 Do I have control on various aspects of my work
 ```
 
 *(multiple choice starting from "Strongly Disagree" to "Strongly Agree")*
@@ -69,7 +69,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 ### Mastery
 
 ```
-🏅 Are you continually improving in your job
+🏅 Am I continually improving in my job
 ```
 
 *(multiple choice starting from "Strongly Disagree" to "Strongly Agree")*
@@ -89,7 +89,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 ### Communication
 
 ```
-👄 Do we communicate freely and openly
+👄 Do we communicate freely and openly as a team
 ```
 
 *(multiple choice starting from "Strongly Disagree" to "Strongly Agree")*
@@ -106,7 +106,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 ### Delivery/Execution
 
 ```
-🚢 Are we moving ahead in the right way
+🚢 Are we moving ahead in the right way as a team
 ```
 
 *(multiple choice starting from "Strongly Disagree" to "Strongly Agree")*
@@ -122,7 +122,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 ### Fairness and Respect
 
 ```
-🙇 Do you feel respected and fairly treated
+🙇 Do I feel respected and fairly treated
 ```
 
 *(multiple choice starting from "Strongly Disagree" to "Strongly Agree")*
@@ -138,19 +138,19 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 ### Management
 
 ```
-🦸 Is your Manager trying their best
+🦸 Is my manager doing their best
 ```
 
 *(various types - Linear scale, Yes/No/Maybe and Text)*
 
-- On a scale of 1-10, how would you rate your manager compared to your idea of an ideal manager?
-- On a scale of 1-10, how does your manager perform when things are going smoothly?
-- On a scale of 1-10, how does your manager perform during crisis or when things are shaky?
-- Did your manager adjust their management style (work-process, communication, empathy, motivation, managing stakeholders etc.) to better support you during Covid situation?
-- Has your manager shown improvement in their management skills in the last year?
-- If your manager left the team suddenly, how badly would it impact the team's functioning?
-- If you were leading the team, what would you do differently from your manager?
-- If you could give one suggestion for how your manager could go from good to great, or from awesome to awesomer, what would it be?
+- On a scale of 1-10, this is how I would rate my manager compared to my idea of an ideal manager.
+- On a scale of 1-10, this is how my manager performs when things are going smoothly.
+- On a scale of 1-10, this is how my manager performs during crisis or when things are shaky.
+- My manager adjusted their management style (work-process, communication, empathy, motivation, managing stakeholders etc.) to better support me during Covid situation.
+- My manager improved their management skills in the last year.
+- If my manager left the team suddenly, this is how badly it would impact the team's functioning.
+- If I was leading the team, this is what I would do differently from my manager.
+- If I could give one suggestion for how my manager could go from good to great, or from awesome to awesomer, it would be...
 - Fill in the blank - My ideal Manager is someone who...
 - Fill in the blank - I wish this questionnaire had also asked me my thoughts/opinions on...
 
