@@ -19,3 +19,7 @@ author: "Rahul"
 
 # Disqus config
 disqus-shortname: ""
+
+twitter:
+  username: rahulj51
+  card: summary
