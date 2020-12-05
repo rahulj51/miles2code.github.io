@@ -67,6 +67,7 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 - My suggestions are welcomed and heard by my Manager and team.
 - To the extent where it does not adversely impact our commitments to stakeholders, I can largely choose what I want to work on.
 - I feel safe to take some time off to rejuvenate whenever I feel the need.
+- My manager and team respect my need to maintain a healthy work-life balance.
 
 ### Mastery
 
@@ -135,7 +136,8 @@ Here's the list. Feel free to use it in your own teams and let me know how it go
 - As a team, we celebrate diversity and take pride in it.
 - My manager respects me as a human.
 - My manager respects my coworkers as humans.
-- If a coworker made me uncomfortable, I would feel comfortable to talk to my manager, irrespective of who that coworker was.
+- If a coworker made me uncomfortable, I would not hesitate to talk to my manager, irrespective of who that coworker was.
+- If my manager made me uncomfortable, I would not hesitate to escalate this to their manager.
 
 ### Management
 
