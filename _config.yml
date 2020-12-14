@@ -4,6 +4,7 @@ meta_description: "Software Engineering, Data, Engineering-Management"
 
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 markdown: kramdown
 highlighter: rouge
@@ -12,6 +13,7 @@ paginate: 15
 plugins: 
   - jekyll-paginate 
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Details for the RSS feed generator
 url: ""
