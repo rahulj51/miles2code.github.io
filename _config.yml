@@ -10,13 +10,14 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
+
 plugins: 
   - jekyll-paginate 
   - jekyll-seo-tag
   - jekyll-sitemap
 
 # Details for the RSS feed generator
-url: ""
+url: "https://rahulj51.github.io"
 author: "Rahul"
 
 # Disqus config
