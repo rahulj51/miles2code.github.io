@@ -126,9 +126,9 @@ I used [MindNode](https://mindnode.com/) for this mindmap.
 
 If you are looking for raw files, here are the markdown and freemind versions:
 
-[Markdown](/assets/data_team_roadmap/roadmap.md) . Many mindmap tools support this. You can also use [markmap](https://markmap.js.org/) or [diagram.codes](https://www.diagram.codes/)
+* [Markdown format](/assets/data_team_roadmap/roadmap.md) . Many mindmap tools support this. You can also use [markmap](https://markmap.js.org/) or [diagram.codes](https://www.diagram.codes/)
 
-[Freemind](/assets/data_team_roadmap/roadmap.mm)
+* [Freemind format](/assets/data_team_roadmap/roadmap.mm)
 
 
 
