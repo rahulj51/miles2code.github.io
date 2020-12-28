@@ -115,3 +115,21 @@ This turned out to be a very helpful exercise for our team. An interesting obser
 Needless to say, this roadmap is very specific to our context / environment and when you set out to build one for yourself, make sure that it reflects your own world more closely.
 
 I'd be happy to hear what you think of this exercise for your data teams. Did you find anything conspicuous by its absence in the above roadmap?
+
+***
+
+*Edit - Dec 28, 2020*
+
+#### Template files
+
+I used [MindNode](https://mindnode.com/) for this mindmap. 
+
+If you are looking for raw files, here are the markdown and freemind versions:
+
+[Markdown](/assets/data_team_roadmap/roadmap.md) . Many mindmap tools support this. You can also use [markmap](https://markmap.js.org/) or [diagram.codes](https://www.diagram.codes/)
+
+[Freemind](/assets/data_team_roadmap/roadmap.mm)
+
+
+
+
