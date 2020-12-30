@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life lessons from a year of cooking at home"
-date:   2020-12-05 15:25:00
+date:   2020-12-30 21:55:00
 categories: Life Skills Practice
 cover: https://source.unsplash.com/GT798QUwnYk/1920x1440
 ---
