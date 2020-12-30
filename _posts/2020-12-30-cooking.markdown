@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Life lessons from a year of cooking "
+date:   2020-12-05 15:25:00
+categories: Life Skills Practice
+cover: https://source.unsplash.com/GT798QUwnYk/1920x1440
+---
+
+A short list:
+
+- Less is more.
+- Apprentice, practice, Journeyman, practice, Master, practice[¹](#one).
+- Before you start, close your eyes and pre-visualize the end result[²](#two).
+- Master one dish really well.
+- It takes an hour to prepare and ten minutes to consume. The process is the purpose.
+- Use simple but purposeful tools. Keep them clean and shining.
+- Always taste your food.
+- Adding is easier than subtracting. That said, subtracting can be learned.
+- Let the food breath.
+- Accidents will happen.
+- Skills, confidence, comfort, creativity and practice are the keys to mastery.
+- Mindfulness is important. Flow is even more important.
+- Best inspiration comes from the most unassuming teachers.
+- You are alone in the kitchen. No one can see you[³](#three).
+
+***
+
+#### Footnotes
+
+1. <a name="one"></a> [Shu Ha Ri](https://en.wikipedia.org/wiki/Shuhari)
+1. <a name="two"></a> [Pre visualization](http://facweb.cs.depaul.edu/sgrais/previsual.htm)
+1. <a name="three"></a> [Julia Child: Cut-Up in the Kitchen](https://www.saturdayeveningpost.com/2018/08/julia-child-cut-kitchen/)
