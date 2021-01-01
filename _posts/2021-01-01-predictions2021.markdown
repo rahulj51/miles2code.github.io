@@ -22,9 +22,9 @@ I believe that in 2021,
 - Databricks will focus more on SQL as the interface language on their delta-lake. 
 - AWS Redshift will lose to Snowflake and Google BigQuery and its market share will reduce even further.
 - Google will probably offer Looker as a GCP service.
-- Dbt will will become as common as Apache Airflow in data tool chains across small to mid-size teams.
+- Dbt will become as common as Apache Airflow in data tool chains across small to mid-size teams.
 - Apache Airflow will see even greater adoption and will leave the competition far behind.
-- Data Management[^3] will become the new hot area of innovation and growth. The industry will come up with maybe a better term for it. There will be more[^4] tools and solutions launched in this space than any other.
+- Data Management[^3] will become the hot new area of innovation and growth. The industry will come up with maybe a better term for it. There will be more[^4] tools and solutions launched in this space than any other.
 
 ---
 
