@@ -11,7 +11,7 @@ But before you read any further, dear reader, please take note that the doctrine
 
 I believe that in 2021, 
 
-- The [hype](https://www.gartner.com/smarterwithgartner/2-megatrends-dominate-the-gartner-hype-cycle-for-artificial-intelligence-2020/)[^1] around Artificial Intelligence and Machine Learning will go down even further as many small/medium companies will seriously begin to question the ROI of data science and ML initiatives.
+- The [hype](http://veekaybee.github.io/2019/02/13/data-science-is-different/)[^1] around Artificial Intelligence and Machine Learning will go down even further as many small/medium companies will seriously begin to question the ROI of data science and ML initiatives.
 - In the same vein, the hype around file based data lakes will die completely and more teams will use an MPP data warehouse in the cloud as a data lake.
 - Machine Learning will get commoditized even further[^2].
 - Data teams will shrink in size in most places.
