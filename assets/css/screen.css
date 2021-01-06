@@ -508,7 +508,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .cover-credits a {
-    text-decoration: none;
+    text-decoration: underline;
     font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     font-style: italic;
