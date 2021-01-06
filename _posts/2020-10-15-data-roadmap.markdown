@@ -130,7 +130,7 @@ If you are looking for raw files, here are the markdown and freemind versions:
 
 * [Freemind format](/assets/data_team_roadmap/roadmap.mm)
 
-*Edit - Jan 06, 2020: See companion [LinkedIn post and discussion](https://www.linkedin.com/posts/rahul-jain-83055b45_data-team-roadmap-activity-6748918763384573953-4nw2)*
+*Edit - Jan 06, 2020: Discuss this on [LinkedIn](https://www.linkedin.com/posts/rahul-jain-83055b45_data-team-roadmap-activity-6748918763384573953-4nw2)*
 
 
 
