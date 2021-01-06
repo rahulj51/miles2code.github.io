@@ -4,6 +4,7 @@ title:  "2021 Predictions: Data and Analytics"
 date:   2021-01-01 12:55:00
 categories: Data Analytics 2021 Predictions
 cover: /assets/predictions/1.jpg
+cover_credits: "[Photo Courtesy: BoiledBeanStudio](https://boiledbeanstudio.com/)"
 ---
 
 Here are my predictions for "Data" in 2021. 

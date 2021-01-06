@@ -500,6 +500,21 @@ margin on the iframe, cause it breaks stuff. */
     font-family: 'Open Sans', sans-serif;
 }
 
+.cover-credits {
+    float:right;
+    /*position: relative;*/
+    padding: 0px 5px;
+    margin: -50px 0 0 0;
+}
+
+.cover-credits a {
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+
 /* Create a bouncing scroll-down arrow on homepage with cover image */
 .scroll-down {
     display: block;
@@ -1480,6 +1495,11 @@ body:not(.post-template) .post-title {
         margin-bottom: 2rem;
         border-bottom: #e0e4e7 1px solid;
     }
+
+    .cover-credits {
+        margin: -20px 0 0 0;
+    }
+
 
     .blog-logo {
         padding: 10px 10px;
