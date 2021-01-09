@@ -5,7 +5,7 @@ date: '2020-08-29T11:09:40.468Z'
 categories: Data-Engineering Principles
 ---
 
-All engineering leaders must spend some time creating a set of guiding principles for their teams. Any good engineering team should be rooted in a core set of values. These values act as the north-star for a team and enable it to align its activities with meaningful business outcomes.
+All good engineering teams should be rooted in a core set of values. These values act as the north-star for the team and enable it to align its activities with meaningful business outcomes.
 
 Data Engineering teams are no different, but they have some unique challenges. Data Engineering teams often work in silos, sandwiched between data producers and data consumers (see [https://martinfowler.com/articles/data-monolith-to-mesh.html](https://martinfowler.com/articles/data-monolith-to-mesh.html) for more on this topic). It is common for these teams to feel isolated and lose sight of the larger purpose of their function.
 
