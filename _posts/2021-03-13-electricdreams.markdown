@@ -5,11 +5,11 @@ date:   2021-03-13 03:38:00
 categories: Musings
 ---
 
-I dreamt about a different world yesterday. With a different physics. And biology. To move from one point to another, for example, the space in my dream world would explode in a billion splinters and reassemble to put you at your destination. 
+I dreamt about a different world yesterday. With a different physics. And biology. To move from one point to another, for example, the space in my dream world would explode into a billion splinters and reassemble to put you at your destination. 
 
 None of this is particularly important or new. But what is is the fact that even if I tried, my imagination would never create something like this consciously. And I have a very active imagination. 
 
-The conscious brain forever copies and steals and gets inspired by the world around me - by the stuff I consume. My subconscious brain though sometimes reaches a realm of self computation where it starts building unimaginable realities. I wonder if this is the same experience that some hallucinogens induce.
+The conscious brain forever copies and steals and gets inspired by the world around me - by the stuff I consume. My subconscious brain though, sometimes reaches a realm of self computation where it starts building unimaginable realities. I wonder if this is the same experience that some hallucinogens induce.
 
 ### My experience with meditation
 
