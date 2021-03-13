@@ -25,7 +25,7 @@ As I continue meditating, these "personalities" keep multiplying till infinity a
 
 ![/assets/electric_dreams/med-3.png](/assets/electric_dreams/med-3.png)
 
-The sensation is akin to how one feels when standing between mirrors.
+Each "me" is observing another "me" observing another "me" observing another till infinity. The sensation is akin to how one might feel when standing between mirrors.
 
 ![/assets/electric_dreams/inception.jpg](/assets/electric_dreams/inception.jpeg)
 _[Inception by Christopher Nolan](https://en.wikipedia.org/wiki/Inception)_
