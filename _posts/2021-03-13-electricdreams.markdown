@@ -17,7 +17,7 @@ I am not an expert meditator. In fact I rarely meditate. When I do, I practice m
 
 ![/assets/electric_dreams/med-1.png](/assets/electric_dreams/med-1.png)
 
-Once in a while though, a strange phenomenon happens. I become aware of myself observing the stream of thoughts - kinda like a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger).
+Once in a while though, a strange phenomenon happens. I become aware of myself observing the stream of thoughts - somewhat like a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger).
 
 ![/assets/electric_dreams/med-2.png](/assets/electric_dreams/med-2.png)
 
