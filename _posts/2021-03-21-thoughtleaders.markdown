@@ -45,7 +45,7 @@ Here's a list of bullshit words that I use most often at work.
 
 An example of such overly used expression is '**Thought Leader**'. Stripped off of its overly abused context, it's a beautiful word - inspirational; aspirational even. 
 
-A Thought Leader is an expert or authority figure in a given domain; someone who influences the evolution of their domain and often plays a leadership role in their area of expertise. Thought Leaders have deep knowledge in their area and offer insights, vision and new ideas for exploration.
+A Thought Leader is an expert or authority figure in a given domain; someone who influences the evolution of their domain. Thought Leaders have deep knowledge in their area and offer insights, vision and new ideas for exploration.
 
 I think true experts are also curious, humble and inquisitive. They have deep empathy and an ability to listen and assimilate varied views and opinions. The best experts "steal" and crowd-source ideas and vision statements. They are also willing to admit when they are wrong.
 
