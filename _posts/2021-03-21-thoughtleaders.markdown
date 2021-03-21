@@ -69,5 +69,5 @@ Perhaps the answer lies in the connotation this expression now bears - [https://
 
 I like the **idea** behind Thought Leadership and I am struggling to think of an equally evocative word/expression.
 
-Perhaps an alternative could be "Thinker" or "Inquirer" - it is humbler and focusses on the act of building knowledge rather than leading with it. These don't have the right ring to them unfortunately - may be the reason why these buzzwords become popular in the first place.
+Perhaps an alternative could be "Thinker" or "Inquirer" - it is humbler and focusses on the act of building knowledge rather than leading with it. These don't have the right ring to them unfortunately - may be the reason why buzzwords become popular in the first place.
 
