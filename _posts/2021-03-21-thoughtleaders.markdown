@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What's a better word for 'Thought Leader' ?"
+title:  "Is there a better word for 'Thought Leader' ?"
 date:   2021-03-21 04:38:00
 categories: Leadership
 ---
