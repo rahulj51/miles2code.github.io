@@ -7,7 +7,7 @@ Hi, You have reached my personal blog site.
 
 I am Rahul.
 
-I live in [Berlin, Germany](https://en.wikipedia.org/wiki/Berlin) with my wife, [Jayashree (Jay)](https://boiledbeanstudio.com/aboutme/).
+I live in [Berlin, Germany](https://en.wikipedia.org/wiki/Berlin) with my wife Jay.
 
 I write code, sometimes blog and often [tweet](https://twitter.com/rahulj51) about data, software engineering and engineering leadership.
 
