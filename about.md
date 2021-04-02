@@ -7,11 +7,11 @@ Hi, You have reached my personal blog site.
 
 I am Rahul.
 
-I live in [Berlin, Germany](https://en.wikipedia.org/wiki/Berlin).
+I live in [Berlin, Germany](https://en.wikipedia.org/wiki/Berlin) with my wife, [Jayashree (Jay)](https://boiledbeanstudio.com/aboutme/).
 
 I write code, sometimes blog and often [tweet](https://twitter.com/rahulj51) about data, software engineering and engineering leadership.
 
-I also offer 1<>1 mentoring through [The Mentoring Club](https://www.mentoring-club.com/the-mentors/rahul-jain). 
+I also offer free 1<>1 mentoring through [The Mentoring Club](https://www.mentoring-club.com/the-mentors/rahul-jain). 
 
 Sometimes, I provide consulting to startups in Europe and India on their data engineering setup.
 
