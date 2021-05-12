@@ -5,9 +5,9 @@ date:   2021-05-11 20:30:00
 categories: Data datawarehouse 
 ---
 
-The current discourse on data can get a little tiring because of its [over focus on tooling](https://twitter.com/rahulj51/status/1254447785170042882). It feels like a new SaaS gets launched every week in the data space.
+The current discourse on data can get a little tiring because of its [over focus on tooling](https://twitter.com/rahulj51/status/1254447785170042882). It feels like a new SaaS gets launched every week in the data space. This, however, should not be at the cost of establishing basic, first-principles understanding of data engineering. 
 
-Here's a short list of fundamental principles for organizing and transforming data in a warehouse. These are principles that my team and I learned the hard way in the course of building our data warehouse at Omio over last three years.
+Here's a short list of some fundamental principles for organizing and transforming data in a warehouse. These are concepts that my team and I learned the hard way in the course of building our data warehouse at Omio over last three years.
 
 The list does not address the question of what storage type to use (data lake vs warehouse vs marts), nor obsesses over Kimball vs Inmon vs Linstedt style of modeling. Instead, it addresses concerns that are somewhat orthogonal to these choices. 
 
