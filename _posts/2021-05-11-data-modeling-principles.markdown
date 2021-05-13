@@ -39,10 +39,12 @@ As you will notice, this is a highly opinionated set of guidelines. The reader i
 ***
 
 #### Footnotes
-
+{::options parse_block_html="true" /}
+<div style="font-size: 0.75em;">
 1. <a name="one"></a>[Jorge](https://www.linkedin.com/in/jorgeramonletosa/) asked a great question about immutability vs GDPR requirements for removal of data. 
 2. <a name="two"></a> Having an etl timestamp (i.e. the time at which the data was inserted in the table) is useful to identify the incremental subset of data that arrived since the last time a batch ETL was run. Even for streaming jobs, the concept of processing time is often useful.
 3. <a name="three"></a> Often useful for financial reporting where you want to maintain the history of all changes to a record.
 4. <a name="four"></a> Data cleansing should be an "exception", not a norm. 
 5. <a name="five"></a> This can happen due to leaky abstractions from source data.
 6. <a name="six"></a> Say your core domain has a "user" entity but not a "customer" entity. A customer is a user who bought something. In this case, avoid creating a "customer" entity in the data warehouse. This is because the definition of the entity can be arbitrary and subject to changes based on how the domain evolves. If you must, then do this in the `aggregations` layer.
+</div>
