@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-cover: /assets/images/snow2021.jpg
+cover: /assets/images/warschauer.jpeg
 about: 'about.html'
 ---
 
@@ -19,7 +19,7 @@ about: 'about.html'
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %}
+                {% if page.about %} <a class="secondary" href='{{page.about | relative_url}}'> About me </a> {% endif %}
             </h2>
         </div>
     </div>
