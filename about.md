@@ -15,7 +15,7 @@ I offer free 1<>1 career coaching through [The Mentoring Club](https://www.mento
 
 I occasionally provide consultation to startups in Europe and India on data engineering.
 
-In my day job, I work as [Head of Business Intelligence and Data Engineering at Omio](https://www.linkedin.com/in/rahul-jain-83055b45/).
+In my day job, I work as [Head of Business Intelligence and Analytics Engineering at Beat](https://www.linkedin.com/in/rahul-jain-83055b45/).
 
 [This is]({{ site.url }}/assets/resume/rahul-resume.pdf) my professional resume. 
 
