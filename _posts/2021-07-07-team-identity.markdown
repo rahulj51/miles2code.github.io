@@ -35,3 +35,5 @@ The purpose of the workshop was not to arrive at a definite conclusion or a set 
 Over time, we hope to create a shared understanding of our purpose, assets and boundaries and to eventually bake this understanding into everything we build and the interactions we have with others around us.
 
 ***
+
+_Discuss this post on [LinkedIn](https://www.linkedin.com/pulse/team-calibration-rahul-jain)_
