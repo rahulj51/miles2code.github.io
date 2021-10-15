@@ -21,4 +21,9 @@ I also offer continued mentoring and regular coaching for a fee (_write to me at
 
 [This is]({{ site.url }}/assets/resume/rahul-resume.pdf) my professional resume. 
 
+---
+
+### Useful links
+
+* Empathy workshop - [Slides]({{ site.url }}/assets/workshops/empathy/empathy.pdf)
 
