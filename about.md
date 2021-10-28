@@ -25,5 +25,6 @@ I also offer continued mentoring and regular coaching for a fee (_write to me at
 
 ### Useful links
 
-* Empathy workshop - [Slides]({{ site.url }}/assets/workshops/empathy/empathy.pdf)
+* Slides from Empathy workshop - [Slides]({{ site.url }}/assets/workshops/empathy/empathy.pdf)
+* Slides from talk on Modern Data Stack - [Slides]({{ site.url }}/assets/workshops/moderndatastack/mds.pdf)
 
