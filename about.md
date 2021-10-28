@@ -28,3 +28,7 @@ I also offer continued mentoring and regular coaching for a fee (_write to me at
 * Slides from Empathy workshop - [Slides]({{ site.url }}/assets/workshops/empathy/empathy.pdf)
 * Slides from talk on Modern Data Stack - [Slides]({{ site.url }}/assets/workshops/moderndatastack/mds.pdf)
 
+---
+
+![cc-sa](/assets/images/by-sa.png){: style="width:20%; margin:0;"}
+Unless specified, all the content and articles are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).

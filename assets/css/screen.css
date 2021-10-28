@@ -1349,6 +1349,12 @@ body:not(.post-template) .post-title {
     float: left;
 }
 
+.copyright img {
+    display: block;
+    width: 20%;
+    height: 30%;
+}
+
 
 /* ==========================================================================
    10. Media Queries - Smaller than 900px
