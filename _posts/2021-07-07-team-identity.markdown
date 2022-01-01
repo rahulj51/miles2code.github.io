@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A data team's search for meaning"
+title:  "Working on my team's Charter and Purpose"
 date:   2021-07-07 10:30:00
 categories: Engineering-management Leadership Teams
 ---
