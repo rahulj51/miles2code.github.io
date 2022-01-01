@@ -9,7 +9,7 @@ cover_credits: "[Photo Courtesy: BoiledBeanStudio](https://boiledbeanstudio.com/
 
 Here are my predictions for "Data" in 2021. 
 
-But before you read any further, dear reader, please take note that the doctrine of [caveat lector](https://en.wikipedia.org/wiki/Caveat_emptor) applies. I hope that the [disclaimers](#disclaimers) in footnotes will allay your fears and sense of indignation at the [hand-waving](https://en.wikipedia.org/wiki/Hand-waving) that follows. **You have been warned**. So without further ado, here goes. 
+But before you read any further, I hope that the [disclaimers](#disclaimers) in footnotes will allay your fears and sense of indignation at the [hand-waving](https://en.wikipedia.org/wiki/Hand-waving) that follows. **You have been warned**. So without further ado, here goes. 
 
 I believe that in 2021, 
 
@@ -28,13 +28,13 @@ I believe that in 2021,
 - Apache Airflow will see even greater adoption and will leave the competition far behind.
 - Data Management[^3] will become the hot new area of innovation and growth. The industry will come up with maybe a better term for it. There will be more[^4] tools and solutions launched in this space than any other.
 
-*Edit - Jan 06, 2020: Discuss this on [LinkedIn](https://www.linkedin.com/posts/rahul-jain-83055b45_2021-predictions-data-and-analytics-activity-6751044367999389696-xJR0)*
+*Edit - Jan 06, 2021: Discuss this on [LinkedIn](https://www.linkedin.com/posts/rahul-jain-83055b45_2021-predictions-data-and-analytics-activity-6751044367999389696-xJR0)*
 
 ---
 
 #### Disclaimers
 <a name="disclaimers"></a>
-1. This list is purposely meant to be provocative and triggering. Readers should take it lightly and not get their [knickers unduly twisted](https://wordhistories.net/2018/09/30/knickers-twist/).
+1. This list is purposely meant to be provocative and triggering. Take it lightly and not get your [knickers unduly twisted](https://wordhistories.net/2018/09/30/knickers-twist/).
 1. I am not an expert or have any authority in predicting the future and I will most likely get these wrong.
 1. I have several conscious and unconscious biases and most of these predictions reflect them in all their glory.
 1. My apologies in advance if you find this list offensive or in bad taste. 
