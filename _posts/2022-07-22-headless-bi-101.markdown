@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Headless BI 101 — Common Terms, Design, Components, Future Outlook & More"
+date:   2022-07-22 10:30:00
+categories: data architecture tools
+---
+
+There has been a lot of buzz around Headless BI and Metrics layer. I co wrote this article on Headless BI with my wife Jay ([https://boiledbeanstudio.com/](https://boiledbeanstudio.com/)) for [Atlan](https://atlan.com)'s technical blog. The article covers the definition, architecture and capabilities of a Headless BI system and evaluates the existing tools in this space. 
+
+[Article link](https://atlan.com/headless-bi-101/)
+
+***
+
