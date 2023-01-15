@@ -5,39 +5,7 @@ date:   2022-12-25 10:30:00
 categories: predictions data tech general
 ---
 
-Just for fun. 
-
-**Data**
-1. 2023 will be one of the most boring years for data since 2011.
-1. Many MDS SaaS companies will go out of business or consolidate.
-2. A managed duckdb offering will compete directly with Snowflake/Databricks.
-3. Scale-ups will invest more in data governance and management.
-4. Snowflake will offer an "economy" package.
-5. Redshift will announce end-of-life.
-6. Snowflake's Unistore will fail to take-off. 
-7. Iceberg will become the de-facto lake storage format.
-8. The hype around semantic layers will die for a while.   
- 
-
-**AI and Tech**
-1. AI generated content will overwhelm the internet causing a big impact on some types of creative jobs.
-2. Google will launch an AI interface embedded in GSuite.
-3. It will become difficult to differentiate between AI and Human generated content. 
-4. Some regulatory/legal frameworks for AI will start emerging.
-5. Elon will quit Twitter. Most users will come back. 
+Wrote this on Substack (no I am not starting a newsletter) - https://rahulj51.substack.com/p/bold-predictions-for-2023-data-and 
 
 
-**Economy**
-1. More layoffs but this will eventually stabilize in Q1.
-2. Inflation will start going down.
-3. France or Spain will emerge as the startup capital of Europe. 
-
-
-**World**
-1. WHO will declare the end of pandemic.
-2. High risk of right-wing violence in some parts of the world.
-3. Russia will withdraw from Ukraine. 
-
-
----
 
