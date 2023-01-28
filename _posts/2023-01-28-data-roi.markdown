@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "The Parks and Recreation model for measuring the economic value of Data"
+date:   2023-01-28 10:30:00
+categories: data
+---
+
+Wrote this post on [Substack](https://rahulj51.substack.com/p/the-parks-and-recreation-model-for) about a creative, out-of-the-box way of reasoning about Data and how to measure its value to an organization.
+
+
+
